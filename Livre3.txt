@@ -1,15 +1,11 @@
 ﻿ Le moyen age
 481 : Baptème de clovis
 732 : Charles Martel arrete les sarrasins à Poitiers
-<<<<<<< HEAD
+
 Calmos amico ----Calmos amico ----Calmos amico ----Calmos amico ----Calmos amico ----Calmos amico ----Calmos amico ----
-=======
-
 TEST2023-Git-BBBBBBBBBBBBVBVBBBGSVxwuiQHGRCDI0COqsjhdliQIHTZGDLKKQzjht
-
 Calmos
 
->>>>>>> 29b3437c070a6a171f068f42d066a20efac8d663
 Page 2/2
 - ENI - Tous droits reservés
 751 : Dynastie carolingienne (Pépin le bref)
