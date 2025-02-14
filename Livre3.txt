@@ -1,11 +1,11 @@
 ﻿ Le moyen age
 481 : Baptème de clovis
 732 : Charles Martel arrete les sarrasins à Poitiers
-<<<<<<< HEAD
+
 TEST2023-Git-1j
-=======
+
 Calmos
->>>>>>> 3b9fedf67ac10126c4ca27804f5034c60e5ca067
+
 Page 2/2
 - ENI - Tous droits reservés
 751 : Dynastie carolingienne (Pépin le bref)
